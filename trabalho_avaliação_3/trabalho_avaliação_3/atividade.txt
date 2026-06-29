@@ -1,0 +1,14 @@
+Avaliação AVL
+
+Utilizando como base a apresentação de ppt disponibilizada na aula 15, com os passos de execução linha-a-linha do código, DESENVOLVA as lâminas que faltam para a inseção dos nós: 40 e 30.
+Exercício
+Entregue aqui o ppt
+Data: 29/06
+Pasta do conteúdo
+Avaliação AVL - Exclusão
+Você deverá implementar o método de exclusão da árvore AVL apresentada.
+Exercício
+Entregue aqui código da exclusão
+Data: 29/06
+
+descrição das atividades que deve ser feito
